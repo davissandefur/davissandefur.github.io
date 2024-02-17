@@ -1,6 +1,8 @@
+---
 layout: page
 title: Projects
-subtitle: A list of all my Projects
+subtitle: All of my projects
+---
 
 # Data Analytics
 
