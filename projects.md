@@ -4,7 +4,7 @@ title: Projects
 subtitle: All of my projects
 ---
 
-# Data Analytics
+# Data Analytics and Mathematical Modelling
 
 # Academic
 * Conference talk at the conference [*An Béal Beo: Foclóireacht agus Frásaíocht na Gaeilge*](https://www.ucc.ie/en/modern-irish/news-and-events/an-beal-beo-focloireacht-agus-frasaiocht-na-gaeilge.html) titled: 'Cúrsa báis nó beatha:
