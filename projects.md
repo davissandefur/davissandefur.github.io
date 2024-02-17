@@ -6,6 +6,10 @@ subtitle: All of my projects
 
 # Data Analytics and Mathematical Modelling
 
+* Physics of collective behaviour applied to human opinion dynamics (masters thesis - 1.1 honours awarded)
+* Analysis of the 2021 Heatwave at Shannon Airport
+
+
 # Academic
 * Conference talk at the conference [*An Béal Beo: Foclóireacht agus Frásaíocht na Gaeilge*](https://www.ucc.ie/en/modern-irish/news-and-events/an-beal-beo-focloireacht-agus-frasaiocht-na-gaeilge.html) titled: 'Cúrsa báis nó beatha:
 meafair an bháis i seanfhocail na Gaeilge' (A Matter of Life and Death: Metaphors of Death in Irish Proverbs).
