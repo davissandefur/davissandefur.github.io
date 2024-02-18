@@ -6,7 +6,7 @@ subtitle: All of my projects
 
 # Data Analytics and Mathematical Modelling
 
-* [Physics of collective behaviour applied to human opinion dynamics](https://github.com/davissandefur/davissandefur.github.io/blob/master/pdfs/MSc.pdf) (masters thesis - 1.1 honours awarded)
+* [Physics of collective behaviour applied to human opinion dynamics](davissandefur.github.io/pdfs/MSc.pdf) (masters thesis - 1.1 honours awarded)
 * [Analysis of the 2021 Heatwave at Shannon Airport](https://github.com/davissandefur/davissandefur.github.io/blob/master/pdfs/Climate_Project.pdf)
 * [CV](https://github.com/davissandefur/davissandefur.github.io/blob/master/pdfs/Davis%20Sandefur%20-%20CV.pdf)
 
