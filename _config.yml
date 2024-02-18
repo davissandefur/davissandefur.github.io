@@ -20,9 +20,9 @@ author: Davis Sandefur
 ###############################################
 
 navbar-links:
+  CV: "pdfs/Davis Sandefur - CV.pdf"
   About Me: "aboutme"
   Projects: "projects"
-  CV: "pdfs/Davis Sandefur - CV.pdf"
   
 
 ################
